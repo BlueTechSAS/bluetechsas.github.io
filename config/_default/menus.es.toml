@@ -1,0 +1,82 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Inicio"
+url = ""
+weight = 1
+
+[[main]]
+name = "Acerca de nosotros"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Proyectos"
+url = "project/"
+weight = 3
+
+[[main]]
+name = "Blog"
+url = "blog/"
+weight = 4
+
+[[main]]
+weight = 5
+name = "Mas"
+hasChildren = true
+
+  [[main]]
+  parent = "Mas"
+  name = "Servicios"
+  url = "service/"
+  weight = 1
+
+  [[main]]
+  parent = "Mas"
+  name = "Precios"
+  url = "pricing/"
+  weight = 2
+
+  [[main]]
+  parent = "Mas"
+  name = "Preguntas Frecuentes"
+  url = "faq/"
+  weight = 3
+  
+[[main]]
+name = "Contactenos"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "Acerca de nosotros"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Proyectos"
+url = "project/"
+weight = 3
+
+[[footer]]
+name = "Servicios"
+url = "service/"
+weight = 4
+
+[[footer]]
+name = "Precios"
+url = "pricing/"
+weight = 5
+
+[[footer]]
+name = "Preguntas Frecuentes"
+url = "faq/"
+weight = 6
+
+[[footer]]
+name = "Contactenos"
+url = "contact/"
+weight = 7
