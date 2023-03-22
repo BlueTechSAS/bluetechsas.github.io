@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "Acerca de nuestra Compañia"
+description: "Nos comprometemos a la mejora continua y la excelencia en cada uno de nuestros procesos y servicios, para ofrecer soluciones óptimas y sostenibles para nuestros clientes y la sociedad en general."
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -10,24 +10,22 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  title : " Blue Tech SAS se ha posicionado como un aliado estratégico en la industria colombiana al brindar soluciones eficientes y eficaces a diversos problemas."
+  content : "Ofrecemos una amplia gama de servicios que incluyen el suministro de casetas tipo petroleras, asesoría en los ámbitos civiles y agro-industriales, fabricación y mantenimiento de equipos como plantas de tratamiento de agua residuales y potable, redes neumáticas, hidráulicas y sistemas de bombeo. 
+  
+  
+  Además, nuestra empresa está comprometida con buenas prácticas medio ambientales que permiten el desarrollo e implementación de procesos y procedimientos enfocados en el mejoramiento continuo y aumento de la rentabilidad de nuestras organizaciones aliadas. En Blue Tech SAS nos aseguramos de brindar soluciones de calidad, oportunas y con óptimo balance de calidad, costo y valor agregado del recurso humano.!"
 
   button:
     enable : true
-    label : "Download Company Profile"
+    label : "Descarga nuestro Porfolio"
     link : "#"
 
   funfacts:
   # funfacts loop
   - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+    name : "Proyectos Completados"
+    count : "59"
 
   # funfacts loop
   - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
@@ -36,7 +34,7 @@ about:
 
   # funfacts loop
   - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
+    name : "Clientes satisfechos"
     count : "70"
 
   # funfacts loop
@@ -50,14 +48,14 @@ about:
     count : "75"
 
   # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+  # - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
+  #   name : "Awards Winner"
+  #   count : "20"
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Como empresa independiente de ingeniería y desarrollo, hemos profundizado en el estudio de los recursos hídricos de la región y en la implementación de soluciones innovadoras para realizar tomas de agua de manera eficiente y sostenible, adaptadas a las necesidades específicas de cada recurso."
   feature_item:
   # feature item loop
   - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
@@ -99,37 +97,16 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Nuestra Visión"
+    content : "En un futuro cercano, nuestra empresa será reconocida como líder en el mercado del tratamiento de aguas residuales, gracias a nuestra constante innovación y excelencia en la implementación de soluciones autónomas, simples y confiables. Además, nos consolidaremos como una empresa sostenible, comprometida con el cuidado del medio ambiente y el desarrollo sostenible, y contribuiremos significativamente a mejorar la calidad de vida de las personas y el desarrollo de las comunidades a través del acceso y manejo responsable del recurso hídrico. Buscamos expandir nuestra presencia a nivel nacional e internacional, ofreciendo soluciones personalizadas y adaptadas a las necesidades de cada cliente, y ser un referente en el sector por nuestra capacidad de brindar resultados insuperables y nuestra dedicación constante a la mejora continua en todo lo que hacemos."
 
   # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Nuestra Misión"
+    content : "Liderar el desarrollo e implementación de soluciones innovadoras y sostenibles para el tratamiento de aguas residuales en Colombia. Nos enfocamos en brindar soluciones autónomas, simples y confiables que superen las expectativas de nuestros clientes y contribuyan a la protección de la salud pública y el cuidado del medio ambiente. "
 
   # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - name : "Propuesta"
+    content : "A través del respeto y la conservación del recurso más preciado, el agua, buscamos fidelizar la confianza de nuestros clientes y ser reconocidos como una empresa líder en el mercado. "
 
 
 ############################# call to action #################################

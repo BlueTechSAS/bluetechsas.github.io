@@ -4,7 +4,7 @@ email: "email2@example.org"
 bg_image: "images/feature-bg.jpg"
 draft: false
 social:
-  - icon : "fab fa-facebook" #https://fontawesome.com/v5.15/icons
+  - icon : "fab fa-facebook" #https://www.facebook.com/profile.php?id=100083116341465
     link : "#"
   - icon : "fab fa-twitter" #https://fontawesome.com/v5.15/icons
     link : "#"

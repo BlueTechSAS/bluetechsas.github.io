@@ -7,8 +7,8 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Acerca de nosotros"
-url = "about/"
+name = "Servicios"
+url = "service/"
 weight = 2
 
 [[main]]
@@ -17,20 +17,24 @@ url = "project/"
 weight = 3
 
 [[main]]
-name = "Blog"
-url = "blog/"
-weight = 4
+name = "Acerca de nosotros"
+url = "about/"
+weight = 7
+
+
+
+[[main]]
+# name = "Blog"
+# url = "blog/"
+# weight = 4
+
 
 [[main]]
 weight = 5
 name = "Mas"
 hasChildren = true
 
-  [[main]]
-  parent = "Mas"
-  name = "Servicios"
-  url = "service/"
-  weight = 1
+
 
   [[main]]
   parent = "Mas"

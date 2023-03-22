@@ -4,19 +4,24 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Blue Tesh SAS <br/> Planta de Tratamiento de Aguas "
+  content: "Somos tu aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
   button:
     enable: true
-    label: "Discover Our Project"
-    link: "project/"
+    label: "Escribenos"
+    link: "contact/"
 
 ############################# About #################################
 about:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
+  title: "Sobre Nosotros"
+  description: "Somos una empresa que brinda tratamiendo de aguas, brindamos soluciones innovadores con expertos de ingeniería, enfocados en brindar servicios de diseño, desarrollo, implementación y mantenimiento en diversas áreas. <br/> 
+"
+  content: "
+  
+  Ofrecemos tratamientos de aguas con soluciones innovadoras y el apoyo de expertos en ingeniería. Nos enfocamos en brindar servicios integrales de diseño, desarrollo, implementación y mantenimiento en diversas áreas, para satisfacer las necesidades específicas de cada cliente.
+
+  Nos especializamos en el manejo de tratamientos de aguas, tanto residuales como potables, y estamos comprometidos con el medio ambiente y las buenas prácticas. En cada proyecto, trabajamos con un enfoque personalizado y el uso de tecnología de punta para garantizar la excelencia en el servicio y la satisfacción de nuestros clientes.."
   image: "images/wrapper-img.png"
 
 
