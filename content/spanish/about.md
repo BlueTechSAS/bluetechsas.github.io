@@ -11,10 +11,7 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : " Blue Tech SAS se ha posicionado como un aliado estratégico en la industria colombiana al brindar soluciones eficientes y eficaces a diversos problemas."
-  content : "Ofrecemos una amplia gama de servicios que incluyen el suministro de casetas tipo petroleras, asesoría en los ámbitos civiles y agro-industriales, fabricación y mantenimiento de equipos como plantas de tratamiento de agua residuales y potable, redes neumáticas, hidráulicas y sistemas de bombeo. 
-  
-  
-  Además, nuestra empresa está comprometida con buenas prácticas medio ambientales que permiten el desarrollo e implementación de procesos y procedimientos enfocados en el mejoramiento continuo y aumento de la rentabilidad de nuestras organizaciones aliadas. En Blue Tech SAS nos aseguramos de brindar soluciones de calidad, oportunas y con óptimo balance de calidad, costo y valor agregado del recurso humano.!"
+  content : "Empresa liderada por los ingenieros  Edwin Alexander Chipatecua Cabezas y Luis Alfredo Mora Ramírez, quienes cuentan con amplia experiencia y conocimientos en el diseño, fabricación y mantenimiento de plantas de tratamiento de aguas, redes neumáticas, hidráulicas y sistemas de bombeo. Nos enorgullece contar con certificaciones de lavado de tanques de almacenamiento de agua potable por la Secretaría de Salud a nivel Bogotá y Cundinamarca, así como con el respaldo de un aliado estratégico certificado en lavado. Nos comprometemos a brindar soluciones eficientes y eficaces a los problemas de la industria colombiana, con prácticas medioambientales sostenibles y enfocadas en el mejoramiento continuo. Buscamos ser el aliado de confianza de las organizaciones aliadas, contribuyendo al desarrollo sostenible y al aumento de la rentabilidad a través del acceso y manejo responsable del recurso hídrico."
 
   button:
     enable : true

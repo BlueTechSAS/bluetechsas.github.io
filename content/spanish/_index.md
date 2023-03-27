@@ -1,11 +1,12 @@
 ---
 ############################### Banner ##############################
+
 banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Blue Tesh SAS <br/> Planta de Tratamiento de Aguas "
-  content: "Somos tu aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
+  title: "Blue Tech SAS <br/> Soluciones Industriales"
+  content: "Somos tu Aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
   button:
     enable: true
     label: "Escribenos"
@@ -15,13 +16,11 @@ banner:
 about:
   enable: true
   title: "Sobre Nosotros"
-  description: "Somos una empresa que brinda tratamiendo de aguas, brindamos soluciones innovadores con expertos de ingeniería, enfocados en brindar servicios de diseño, desarrollo, implementación y mantenimiento en diversas áreas. <br/> 
-"
-  content: "
-  
-  Ofrecemos tratamientos de aguas con soluciones innovadoras y el apoyo de expertos en ingeniería. Nos enfocamos en brindar servicios integrales de diseño, desarrollo, implementación y mantenimiento en diversas áreas, para satisfacer las necesidades específicas de cada cliente.
+  description: <h1>Con más de 9 años de experiencia en la innovación y automatización del tratamiento de aguas y residuos, brindamos soluciones de alta calidad y eficiencia, respaldadas por nuestro compromiso constante con la mejora continua y la satisfacción de nuestros clientes. <br/> 
 
-  Nos especializamos en el manejo de tratamientos de aguas, tanto residuales como potables, y estamos comprometidos con el medio ambiente y las buenas prácticas. En cada proyecto, trabajamos con un enfoque personalizado y el uso de tecnología de punta para garantizar la excelencia en el servicio y la satisfacción de nuestros clientes.."
+  content: "Ofrecemos asesoramiento profesional y asistencia técnica en el mantenimiento de procesos hidráulicos y sistemas de tratamiento de aguas potables, industriales y residuales. 
+  
+  Contamos con amplia experiencia en automatización y control, aplicando tecnologías de vanguardia en este campo, así como en disciplinas complementarias como sistemas de control y supervisión de datos, instrumentación, control de procesos industriales y redes de comunicación industrial. Nuestro objetivo es ofrecer soluciones eficientes y eficaces que permitan optimizar los procesos de tratamiento de aguas y residuos, contribuyendo así al cuidado del medio ambiente y al bienestar de la sociedad."
   image: "images/wrapper-img.png"
 
 
@@ -29,18 +28,16 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "NOSOTROS DESARROLLAMOS GRANDES IDEAS"
+  content: " 
+  Brindamos soluciones a medida para clientes, ayudando a maximizar la eficiencia y la rentabilidad, al tiempo que protegemos y conservamos el recurso más valioso del planeta, el AGUA.
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Somos profesionales altamente capacitados y enfocados en la ingeniería, construcción, instalación y mantenimiento de equipos de calidad y eficiencia comprobadas en el tratamiento de aguas. Nuestro propósito es mejorar la calidad del agua y preservar el medio AMBIENTE. 
   "
   button:
     enable: true
-    label: "View Works"
+    label: "Ver Proyectos"
     link: "project/"
 
 
@@ -105,6 +102,5 @@ funfacts:
     image: "images/clients/avater-3.jpg"
     designation: "CEO-Themefisher"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
 
 ---

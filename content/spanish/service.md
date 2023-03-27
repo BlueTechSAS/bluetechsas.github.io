@@ -42,37 +42,32 @@ featured_service:
 service:
   enable : true
   title : "Nuestros Servicios"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "Brindamos soluciones personalizadas y adaptadas a las necesidades específicas de cada cliente. Nos esforzamos por asegurar la satisfacción total del cliente, ofreciendo un servicio excepcional en cada proyecto y manteniendo una comunicación constante y transparente durante todo el proceso."
   service_item:
     # service item loop
     - icon : fas fa-bullseye #https://fontawesome.com/v5.15/icons
-      name: Branding
+      name: Diseño y construcción
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons
-      name: Web Design
+      name:  Servicios de Ingeniería
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-image #https://fontawesome.com/v5.15/icons
-      name: App Design
+      name: Mantenimiento y Reparación
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
+      name: Suministros y equipos
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
-    # service item loop
-    - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
     - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
+      name: Capacitaciones
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
 
     # service item loop
@@ -84,6 +79,13 @@ service:
     - icon : fas fa-feather #https://fontawesome.com/v5.15/icons
       name: Brand Identity
       content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    
+    # service item loop
+    
+    - icon : fas fa-headphones-alt #https://fontawesome.com/v5.15/icons
+      name: Mantenimiento de Equipos 
+      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
 
 ############################# call to action #################################
 cta:
