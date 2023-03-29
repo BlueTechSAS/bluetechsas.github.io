@@ -1,23 +1,17 @@
 ---
 title: "Rio Furniture"
-description: "this is meta description"
+description: "Proyecto mantenimiento preventivo de equipos de bombeo"
 draft: false
 image : "images/portfolio/work5.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+category: "Mantenimiento y Reparación"
 information:
-  - label : "Client"
-    info : "Jannie Kelonsky"
-  - label : "What We Did"
-    info : "Website Redesign"
-  - label : "Tools Used"
-    info : "Photoshop,Illustrator"
-  - label : "Completed on"
-    info : "17th March 2014"
-  - label : "Skills"
-    info : "HTML5 / PHP / CSS3"
-  - label : "Client"
-    info : "Jannie Kelonsky"
+  - label : "CLIENTE"
+    info : "Edificio OXO 69"
+  - label : "LUGAR"
+    info : "Bogotá"
+  - label : "SERVICIO"
+    info : "Mantenimiento preventivo"
 ---
 
 ## Behance Website Redesign

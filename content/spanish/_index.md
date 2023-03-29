@@ -5,7 +5,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "Blue Tech SAS <br/> Soluciones Industriales"
+  title: "Blue Tech <br/> Soluciones Industriales"
   content: "Somos tu Aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
   button:
     enable: true
@@ -16,11 +16,10 @@ banner:
 about:
   enable: true
   title: "Sobre Nosotros"
-  description: <h1>Con más de 9 años de experiencia en la innovación y automatización del tratamiento de aguas y residuos, brindamos soluciones de alta calidad y eficiencia, respaldadas por nuestro compromiso constante con la mejora continua y la satisfacción de nuestros clientes. <br/> 
+  description: Con más de 9 años de experiencia en la innovación y automatización del tratamiento de aguas y residuos, brindamos soluciones de alta calidad y eficiencia, respaldadas por nuestro compromiso constante con la mejora continua y la satisfacción de nuestros clientes. <br/> 
 
-  content: "Ofrecemos asesoramiento profesional y asistencia técnica en el mantenimiento de procesos hidráulicos y sistemas de tratamiento de aguas potables, industriales y residuales. 
-  
-  Contamos con amplia experiencia en automatización y control, aplicando tecnologías de vanguardia en este campo, así como en disciplinas complementarias como sistemas de control y supervisión de datos, instrumentación, control de procesos industriales y redes de comunicación industrial. Nuestro objetivo es ofrecer soluciones eficientes y eficaces que permitan optimizar los procesos de tratamiento de aguas y residuos, contribuyendo así al cuidado del medio ambiente y al bienestar de la sociedad."
+  content: "
+ Contamos con amplia experiencia en automatización y control, así como en disciplinas complementarias como sistemas de supervisión de datos, instrumentación, control de procesos y redes de comunicación industrial. Nuestro objetivo es ofrecer soluciones eficientes y eficaces para optimizar los procesos de tratamiento de aguas y residuos, contribuyendo al cuidado del medio ambiente y al bienestar social.."
   image: "images/wrapper-img.png"
 
 
@@ -28,7 +27,7 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "NOSOTROS DESARROLLAMOS GRANDES IDEAS"
+  title: "DESARROLLAMOS GRANDES IDEAS PARA SU ORGANIZACIÓN"
   content: " 
   Brindamos soluciones a medida para clientes, ayudando a maximizar la eficiencia y la rentabilidad, al tiempo que protegemos y conservamos el recurso más valioso del planeta, el AGUA.
 
@@ -51,56 +50,63 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Queremos escuchar tus ideas y necesidades, para ofrecerte un servicio personalizado que se adapte a tus requerimientos y cumpla con tus expectativas."
+  content:  "Nuestro equipo de expertos está altamente capacitado y comprometido con ofrecerte soluciones óptimas para tus proyectos, basadas en las últimas tendencias y avances tecnológicos del sector. Contáctanos y juntos encontraremos las soluciones que necesitas para llevar tus proyectos al siguiente nivel.
+  
+  
+  No dudes en contactarnos para obtener más información y asesoramiento personalizado."
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "¡As CLICK Aqui! ¡Estamos a solo un mensaje de distancia!"
     link: "contact/"
 
 ############################# Funfacts ###############################
 funfacts:
   enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
+  title: "Datos divertidos sobre nosotros"
+  description: "Podemos compartir con orgullo nuestros logros y las opiniones de nuestros clientes satisfechos. 
+  
+  
+  Agradecemos su confianza y la oportunidad de ser parte de sus Proyectos Exitosos."
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
+    name: "Charlas y Café"
     count: "99"
 
   # funfacts item loop
   - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
+    name: "Análisis y Diseños"
     count: "45"
 
   # funfacts item loop
   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
+    name: "Proyectos Completados"
     count: "125"
 
   # funfacts item loop
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
+    name: "Trabajos Municipales | Licitaciones"
+    count: "20"
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
+  - name: "Dory Betty Figueroa"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: "Administradora del Colegio Jorge Emilio Valenzuela "
+    content: "La colaboración de Blue Tech en el análisis, diseño, implementación y montaje ha generado beneficios positivos en el tratamiento de aguas, lo que ha sido evaluado positivamente por la Secretaría del Medio Ambiente. Además, el proceso ha involucrado de manera exitosa a estudiantes y profesores en el aprendizaje sobre el tratamiento de aguas
+    Enlace: https://fb.watch/jy_Lv66XOo/?mibextid=ZbWKwL"
 
   # testimonial item loop
-  - name: "Randi Renin"
+  - name: "Llano Mora"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: "Llanos Oil - Director Ejecutivo"
+    content: "Desde el inicio del proyecto, Blue Tech nos brindó su apoyo en el diseño e implementación de una planta de tratamiento de aguas que cumple con las especificaciones técnicas necesarias para mantener el control y la calidad del agua en nuestros cultivos. Gracias a su solución personalizada, hemos logrado asegurar el desarrollo óptimo de nuestros cultivos y mejorar nuestra eficiencia en el uso del agua. Enlace: https://fb.watch/jy_P6BzDwo/?mibextid=ZbWKwL"
 
   # testimonial item loop
-  - name: "Rose Rio"
+  - name: "Planta de Tratamiento de Aguas"
     image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: ""
+    content: "EL Proceso de tratamiento de aguas consiste en recolectar y mezclar aguas residuales, pasarlas a un reactor biológico, realizar decantación de sólidos, regular el pH en un reactor químico y hacer aislamiento de material orgánico. Finalmente, el agua tratada pasa por varios compartimientos del tanque. A continuación puedes ver uno de nuestros trabajos.Enlace https://fb.watch/jy-BKnO_yI/."
 
 ---
