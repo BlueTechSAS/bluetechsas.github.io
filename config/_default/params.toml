@@ -17,11 +17,10 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "571 4706079 |  3238106693 | 3044316476"
+phone = "571 4706079 | +57 3238106693"
 email = " comercial@bluetechsas.com"
 location = """
-**Themefisher**  
-Bogotá Colombia 
+**Bogotá Colombia**  
 Carrera 23C # 32 - 47 Sur Oficina 301.
 Barrio Quiroga
 """
@@ -92,8 +91,8 @@ baidu = "" # Your verification code
 [gmap]
 enable = true
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+map_latitude = "4.58173"
+map_longitude = "-74.11590"
 map_marker = "images/marker.png"
 
 # cookies
