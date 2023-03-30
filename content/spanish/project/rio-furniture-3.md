@@ -1,21 +1,24 @@
 ---
-title: "Proyecto Monitoreo PTAP y PTAR en Campamento ONU"
-description: "Uniendo fuerzas para garantizar el acceso y gestión segura del agua y saneamiento en la comunidad "
+title: "Impermeabilización y lavado de tanques de almacenamiento."
+description: "Mejorando la calidad del agua en Propiedades Horizontales. "
 draft: false
-image : "images/portfolio/work3.jpg"
+image : "images/portfolio/work4.jpg"
 bg_image: "images/feature-bg.jpg"
-category:  [ "Diseño y Fabriación" , "Consultoría" ]
+category:  [ "Tratamiento de Aguas" , "Consultoría" ]
 information:
   - label : "CLIENTE"
-    info : "ONU"
+    info : "Conjunto residencial San Antonio PH"
   - label : "LUGAR"
-    info : "San Vicente del Caguán Caqueta"
+    info : "Bogotá"
   - label : "SERVICIO"
-    info : "Consultoria y Servicio de Ingeniería "
+    info : "Servicio de Ingeniería y Desarrollo"
+
 ---
 
-## Agua y saneamiento sostenibles: Un proyecto para mejorar la calidad de vida y la salud de la población.
+## Garantizando la calidad del agua potable almacenada: impermeabilización y enchapado.
 
-Nuestro proyecto tuvo como objetivo mejorar el acceso y la gestión segura del agua potable y saneamiento en la comunidad, abordando los desafíos globales que enfrentan millones de personas en todo el mundo. Para lograrlo, realizamos un monitoreo y evaluación   PTAP y PTAR exhaustivos de la calidad del agua y saneamiento, identificando áreas de mejora y estableciendo un plan de acción para implementar soluciones efectivas.
+Nuestro equipo de expertos llevó a cabo un proceso de impermeabilización y enchapado en el tanque de almacenamiento de agua potable para asegurar la calidad del agua suministrada. Se aplicaron técnicas especializadas para eliminar fugas y evitar la entrada de impurezas en el tanque, y se realizó un proceso de enchapado para proteger el tanque contra la corrosión y garantizar su durabilidad a largo plazo.
 
-Trabajamos en colaboración con la comunidad y las autoridades locales para garantizar una gestión sostenible y efectiva del recurso hídrico, promoviendo así el desarrollo sostenible en la región. Esta iniciativa fue una gran experiencia para mejorar la calidad de vida y contribuir a la salud de la población. Al asegurar el acceso y gestión segura del agua y saneamiento, estamos contribuyendo al bienestar de la comunidad y al logro de los objetivos de desarrollo sostenible.
+La realización de este proyecto ha tenido un impacto significativo en la calidad de vida de la población, garantizando la disponibilidad de agua potable de alta calidad para el consumo humano. Al asegurar que el tanque esté en óptimas condiciones, se evita cualquier tipo de contaminación del agua y se garantiza su disponibilidad a largo plazo.
+
+Con nuestro servicio de impermeabilización y enchapado para tanques de almacenamiento de agua potable, puedes estar seguro de que estás tomando medidas para garantizar la calidad del agua que se suministra a hogares o negocios.

@@ -100,17 +100,12 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Misión"
-    content : " En nuestra empresa, nos comprometemos a ofrecer servicios personalizados y adaptados a las necesidades de cada organización. A través de un diagnóstico inicial, creamos estrategias que cumplan con las expectativas de nuestros clientes, buscando siempre la mejora continua. 
-    
-
-    Como líderes en el desarrollo e implementación de soluciones innovadoras y sostenibles para el tratamiento de aguas residuales en Colombia, nos enfocamos en brindar soluciones autónomas, simples y confiables que superen las expectativas de nuestros clientes y contribuyan a la protección de la salud pública y el cuidado del medio ambiente."
+    content : " En nuestra empresa, nos comprometemos a ofrecer servicios personalizados y adaptados a las necesidades de cada organización. A través de un diagnóstico inicial, creamos estrategias que cumplan con las expectativas de nuestros clientes, buscando siempre la mejora continua.     Como líderes en el desarrollo e implementación de soluciones innovadoras y sostenibles para el tratamiento de aguas residuales en Colombia, nos enfocamos en brindar soluciones autónomas, simples y confiables que superen las expectativas de nuestros clientes y contribuyan a la protección de la salud pública y el cuidado del medio ambiente."
 
 
   # tab item loop
   - name : "Visión"
-    content : "En el futuro, nuestra empresa se consolidará como líder en el mercado del tratamiento de aguas residuales en Colombia y a nivel internacional, gracias a nuestra constante innovación y excelencia en la implementación de soluciones autónomas, simples y confiables. 
-    
-    
+    content : "En el futuro, nuestra empresa se consolidará como líder en el mercado del tratamiento de aguas residuales en Colombia y a nivel internacional, gracias a nuestra constante innovación y excelencia en la implementación de soluciones autónomas, simples y confiables.    
     Nos enfocaremos en ser una empresa sostenible, comprometida con el cuidado del medio ambiente  y en contribuir significativamente a mejorar la calidad de vida de las personas y el desarrollo de las comunidades a través del acceso y manejo responsable del recurso hídrico. "
 
 

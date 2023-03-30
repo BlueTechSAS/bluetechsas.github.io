@@ -71,7 +71,7 @@ funfacts:
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Charlas y Café"
+    name: "Consultas y Café"
     count: "99"
 
   # funfacts item loop
