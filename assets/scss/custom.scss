@@ -1,3 +1,65 @@
+// // Font Variables from variables.scss file
+// $primary-font:'Noto Serif', sans-serif;
+
+// // font links from typography.scss file
+// @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+html {font-size: 112.5%;} /*18px*/
+
+body {
+  background: white;
+  font-family: 'Red Hat Mono', monospace;
+  font-weight: 400;
+  line-height: 1.75;
+//   color: #000000;
+}
+
+p {margin-bottom: 1rem;}
+
+h1, h2, h3, h4, h5 {
+  margin: 3rem 0 1.38rem;
+  font-family: 'Red Hat Mono', monospace;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+h1, .slider .block h1, .page-title .block h1 {
+  margin-top: 0;
+//   font-size: 3.052rem;
+  font-size: 3rem;
+}
+
+h2 {font-size: 2.441rem;}
+
+h3 {font-size: 1.953rem;}
+
+h4 {font-size: 1.563rem;}
+
+h5 {font-size: 1.25rem;}
+
+small, .text_small {font-size: 0.8rem;}
+
+/*   CUSTOM CSS */
+
+.counter-box h4 {
+    margin: 0.3rem;
+}
+
+* p, .feature p, .section-title p {
+    color: #575757;
+    text-align: justify;
+    font-size: 114.5%;
+    font-family: "Lora";
+    font-style: normal;
+}
+.feature {
+    background-blend-mode:screen;
+    background-color:#c8c8c8;
+
+}
+.navigation .navbar .navbar-nav a{
+    color: #575757;
+}
+
 .navigation {
     padding-top: 0px;
     padding-bottom: 5px;
@@ -8,4 +70,8 @@
 }
 .navigation .navbar .navbar-nav {
      padding-top: 15px;
+}
+
+.service .service-item {
+    height: 700px;
 }

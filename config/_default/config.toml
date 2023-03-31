@@ -76,7 +76,7 @@ rel = "manifest"
 # Color principal: #103058 secundario:#0e3f79 terciario: #2d89cb  cuarto:#82dceb
 [params.variables]
 color_primary = "#0e3f79"
-body_color = "#2d89cb"
+body_color = "#0e3f79"
 text_color = "#666666"
 text_dark = "#333333"
 text_light = "#7b7b7b"
@@ -84,3 +84,11 @@ border_color = "#2d89cb"
 black = "#103058"
 white = "#ffffff"
 light = "#f5f5f5"
+
+font_primary = "Red+Hat+Mono:wght@300;400;500&display=swap"
+font_primary_type = "sans-serif" # [serif/sans-serif]
+font_secondary = "Lora:ital,wght@0,400;0,500;1,400;1,500"
+font_secondary_type = "serif" # [serif/sans-serif]
+# font_size = "19px"
+font_scale = "2"
+
