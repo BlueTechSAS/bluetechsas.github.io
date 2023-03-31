@@ -66,7 +66,6 @@ funfacts:
   title: "Datos divertidos sobre nosotros"
   description: "Podemos compartir con orgullo nuestros logros y las opiniones de nuestros clientes satisfechos. 
   
-  
   Agradecemos su confianza y la oportunidad de ser parte de sus Proyectos Exitosos."
   funfact_item:
   # funfacts item loop
