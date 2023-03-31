@@ -1,5 +1,5 @@
 ---
-title: "Servicios Profesioanles"
+title: "Servicios Profesionales"
 description: "En nuestra empresa, no solo brindamos tratamientos de aguas de alta calidad, sino que también nos convertimos en tu aliado estratégico para lograr tus objetivos en el manejo y tratamiento de aguas. Con nuestro enfoque personalizado y el compromiso con la excelencia, podemos garantizar resultados óptimos y la satisfacción total de nuestros clientes."
 bg_image: "images/feature-bg.jpg"
 layout: "service"

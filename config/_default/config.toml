@@ -91,3 +91,4 @@ font_secondary = "Lora:ital,wght@0,400;0,500;1,400;1,500"
 font_secondary_type = "serif" # [serif/sans-serif]
 # font_size = "19px"
 font_scale = "2"
+
