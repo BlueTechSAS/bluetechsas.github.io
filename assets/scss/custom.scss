@@ -38,13 +38,15 @@ h5 {font-size: 1.125rem;}
 small, .text_small {font-size: 0.889rem;}
 
 /*   CUSTOM CSS */
-
+.bg-dark {
+  background: #83c8d4;
+}
 .counter-box h4 {
     margin: 0.3rem;
 }
 
 * p, .feature p, .section-title p {
-    color: #575757;
+    color: #000000;
     text-align: justify;
     font-size: 12pt;
     font-family: "Lora";

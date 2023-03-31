@@ -1,6 +1,6 @@
 ---
 title: "Servicios Profesionales"
-description: "En nuestra empresa, no solo brindamos tratamientos de aguas de alta calidad, sino que también nos convertimos en tu aliado estratégico para lograr tus objetivos en el manejo y tratamiento de aguas. Con nuestro enfoque personalizado y el compromiso con la excelencia, podemos garantizar resultados óptimos y la satisfacción total de nuestros clientes."
+description: "Con nuestro enfoque personalizado y el compromiso con la excelencia, podemos garantizar resultados óptimos y la satisfacción total de nuestros clientes, por esta razón somo su Aliado Estratégico para lograr tus objetivos en el manejo y tratamiento de aguas."
 bg_image: "images/feature-bg.jpg"
 layout: "service"
 draft: false
@@ -9,10 +9,10 @@ draft: false
 about:
   enable : true
   title : "Expertos en Agua Residual"
-  content : "Somos un equipo altamente capacitado en ingeniería que ofrece soluciones integrales de precomisionado, comisionado y puesta en marcha, supervisión e inspección de instalaciones industriales, así como servicios de operación y mantenimiento. En nuestro compromiso con la satisfacción del cliente y la calidad, nos hemos consolidado como la mejor opción en el mercado. 
+  content : "Somos un equipo altamente capacitado en Ingeniería que ofrece soluciones integrales de precomisionado, comisionado y puesta en marcha, supervisión e inspección de instalaciones industriales, así como servicios de operación y mantenimiento. 
   
   
-  Brindamos servicios de alta calidad y valor agregado, asegurando un óptimo balance entre calidad, costo y eficiencia. Además, suministramos asesoría en los ámbitos civiles y agro-industriales, y fabricamos y mantenemos equipos como plantas de tratamiento de agua residuales y potable, redes neumáticas, hidráulicas y sistemas de bombeo. También nos comprometemos con buenas prácticas medioambientales y enfocamos nuestros procesos y procedimientos en el mejoramiento continuo y el aumento de la rentabilidad de nuestros aliados. "
+  Brindamos servicios de alta calidad y valor agregado, asegurando un óptimo balance entre calidad, costo y eficiencia. Además, suministramos asesoría en los ámbitos civiles y agro-industriales, fabricamos y mantenemos equipos como plantas de tratamiento de agua residuales y potable, redes neumáticas, hidráulicas y sistemas de bombeo. También nos comprometemos con buenas prácticas medioambientales y enfocamos nuestros procesos y procedimientos en el mejoramiento continuo. "
 
   image : "images/company/company-group-pic.jpg"
 
@@ -43,28 +43,28 @@ featured_service:
     - name : "Diseño y construcción"
       icon : "fas fa-lightbulb"
       color : "primary-darker"
-      content : "Ofrecemos una amplia gama de servicios de ingeniería, desde la transformación de edificaciones existentes hasta la construcción de proyectos viales y hidráulicos, incluyendo el diseño y construcción de plantas de tratamiento de aguas. 
+      content : "Ofrecemos una amplia gama de servicios de Ingeniería, desde la transformación de edificaciones existentes hasta la construcción de proyectos viales y hidráulicos, incluyendo el Diseño y Construcción de Plantas de Tratamiento de Aguas. 
       
       
-      Brindamos soluciones de ingeniería para la gestión eficiente de los recursos hídricos, desde el diseño hasta la construcción y puesta en marcha de plantas de tratamiento para diferentes tipos de agua, servicios de mantenimiento y reparación de cubiertas y superficies para mejorar la durabilidad de las estructuras."
+      Brindamos soluciones  para la gestión eficiente de los recursos hídricos, desde el Diseño hasta la construcción y puesta en marcha de plantas de tratamiento de aguas con un sistema de monitoreo."
 
 
 ############################# Service ###############################
 service:
   enable : true
   title : "Nuestros Servicios"
-  description : "Brindamos soluciones personalizadas y adaptadas a las necesidades específicas de cada cliente. Nos esforzamos por asegurar la satisfacción total del cliente, ofreciendo un servicio excepcional en cada proyecto y manteniendo una comunicación constante y transparente durante todo el proceso."
+  description : "Brindamos soluciones personalizadas y adaptadas a las necesidades específicas de cada cliente, ofreciendo un servicio excepcional en cada proyecto y manteniendo una comunicación constante y transparente durante todo el proceso."
   service_item:
 
     # service item loop
     - icon : fas fa-bezier-curve #https://fontawesome.com/v5.15/icons  
       name: Diseño y Construcción
-      content: "De plantas de tratamiento de agua potable, utilizando materiales de primera calidad para garantizar la máxima eficiencia y durabilidad. Nos enfocamos en crear soluciones personalizadas y adaptadas a las necesidades específicas de cada cliente, asegurando la satisfacción total del proyecto.  Algunos servicios SON: Transformación de edificaciones, Diseño y Construcción de proyectos hidráulicos, Diseño y Construcción de Plantas de Tratamiento de Aguas (Potables - Risiduales - Domésticas - Industriales) "
+      content: "De plantas de tratamiento de agua potable, utilizando materiales de primera calidad para garantizar la máxima eficiencia y durabilidad. Nos enfocamos en crear soluciones personalizadas y adaptadas a las necesidades específicas de cada cliente, asegurando la satisfacción total del proyecto.  Algunos servicios SON: Transformación de edificaciones, Diseño y Construcción de proyectos hidráulicos, De Plantas de Tratamiento de Aguas (Potables-Risiduales - Domésticas - Industriales) "
 
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons "
       name:  Servicios de Ingeniería y Desarrollo
-      content: "Desde la conceptualización hasta la puesta en marcha y seguimiento, trabajamos en estrecha colaboración con nuestros clientes para identificar sus necesidades, seleccionar los equipos y tecnologías más adecuados y diseñar proyectos integrales de tratamiento de aguas."
+      content: "Levantamiento topográfico para obtener información precisa y detallada de los terrenos y superficies en los que se llevarán a cabo los proyectos. Caracterización de aguas caracterización de aguas para identificar su composición y determinar los tratamientos adecuados. Estudios técnicos tales como estudios de impacto ambiental y de factibilidad, para asegurar la viabilidad y sostenibilidad de los proyectos."
 
     # service item loop
     - icon : fas fa-tools #https://fontawesome.com/v5.15/icons
@@ -84,16 +84,18 @@ service:
     # service item loop
     - icon : fas fa-user-lock  #https://fontawesome.com/v5.15/icons
       name: Consultorias
-      content: "Servicios de asesoría en la gestión de permisos y licencias necesarias para el desarrollo de los proyectos, en temas de ingeniería y tratamiento de aguas para mejorar las habilidades y conocimientos de nuestros clientes."
+      content: "Servicios de asesoría en la gestión de permisos y licencias necesarias para el desarrollo de los proyectos, en temas de ingeniería y tratamiento de aguas para mejorar las habilidades y conocimientos de nuestros clientes.
+    Desde la conceptualización hasta la puesta en marcha y seguimiento, trabajamos en estrecha colaboración con nuestros clientes para identificar sus necesidades, seleccionar los equipos y tecnologías más adecuados y diseñar proyectos integrales de tratamiento de aguas.
+    "
 
     # service item loop
-    - icon : fas fa-pencil-ruler #https://fontawesome.com/v5.15/icons 
-      name:  Servicios de ingeniería
-      content: " Levantamiento topográfico para obtener información precisa y detallada de los terrenos y superficies en los que se llevarán a cabo los proyectos. Caracterización de aguas caracterización de aguas para identificar su composición y determinar los tratamientos adecuados. Estudios técnicos tales como estudios de impacto ambiental y de factibilidad, para asegurar la viabilidad y sostenibilidad de los proyectos."
+    # - icon : fas fa-pencil-ruler #https://fontawesome.com/v5.15/icons 
+    #   name:  Servicios de ingeniería
+    #   content: " "
     
     # service item loop
     - icon : fas fa-edit #https://fontawesome.com/v5.15/icons  <i class=""></i>
-      name: Diseño y Fabricación de Plantas de tratamiento de Aguas
+      name: Tratamiento de Aguas
       content: "La planta de tratamiento de aguas de Blue Tech es altamente efectiva en la eliminación de contaminantes y garantiza la calidad del agua para su reutilización o descarte seguro. Además, el proceso de tratamiento es llevado a cabo por expertos altamente capacitados y comprometidos con el cuidado del medio ambiente. Si estás interesado en implementar una planta de tratamiento de aguas en tu empresa o comunidad."
 
 

@@ -6,7 +6,9 @@ banner:
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
   title: "Blue Tech <br/> Soluciones Industriales"
-  content: "Somos tu Aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
+  content: "Somos tu Aliado estratégico en lavado, desinfección y mantenimiento, así como en la ejecución de obras civiles. 
+  
+  Con nuestro enfoque profesional y compromiso con la excelencia, podemos garantizar resultados de calidad y la satisfacción de nuestros clientes."
   button:
     enable: true
     label: "Escribenos"
