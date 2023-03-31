@@ -51,6 +51,9 @@ small, .text_small {font-size: 0.8rem;}
     font-family: "Lora";
     font-style: normal;
 }
+.page-title .block h1 {
+  text-transform: uppercase;
+}
 .feature {
     background-blend-mode:screen;
     background-color:#c8c8c8;
