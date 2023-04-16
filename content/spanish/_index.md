@@ -21,7 +21,7 @@ about:
   description: Con más de 9 años de experiencia en la innovación y automatización del tratamiento de aguas y residuos, brindamos soluciones de alta calidad y eficiencia, respaldadas por nuestro compromiso constante con la mejora continua y la satisfacción de nuestros clientes. <br/> 
 
   content: "
- Contamos con amplia experiencia en automatización y control, así como en disciplinas complementarias como sistemas de supervisión de datos, instrumentación, control de procesos y redes de comunicación industrial. Nuestro objetivo es ofrecer soluciones eficientes y eficaces para optimizar los procesos de tratamiento de aguas y residuos, contribuyendo al cuidado del medio ambiente y al bienestar social.."
+ Contamos con amplia experiencia en automatización, potencia y control, así como en disciplinas complementarias como en el control de sistemas de bombeo, instrumentación y control de procesos. Nuestro objetivo es ofrecer soluciones eficientes y eficaces para optimizar los procesos de tratamiento de aguas y residuos, contribuyendo al cuidado del medio ambiente y al bienestar social.."
   image: "images/wrapper-img.png"
 
 
@@ -34,7 +34,16 @@ portfolio:
   Brindamos soluciones a medida para clientes, ayudando a maximizar la eficiencia y la rentabilidad, al tiempo que protegemos y conservamos el recurso más valioso del planeta, el AGUA.
 
 
-Somos profesionales altamente capacitados y enfocados en la ingeniería, construcción, instalación y mantenimiento de equipos de calidad y eficiencia comprobadas en el tratamiento de aguas. Nuestro propósito es mejorar la calidad del agua y preservar el medio AMBIENTE. 
+Contamos con un equipo de profesionales altamente capacitados en ingeniería, construcción, instalación y mantenimiento de equipos de bombeo, incluyendo bombas hidroneumáticas periféricas y sumergibles, así como tanques hidroacumuladores y hidroflo.
+
+
+
+Además, diseñamos y programamos tableros de control y potencia a medida, utilizando sistemas de inteligencia como PLC para optimizar el funcionamiento de los equipos, asegurando una alternancia adecuada entre las bombas para evitar su fatiga y garantizar un reemplazo oportuno en caso de falla. 
+
+
+
+.
+
   "
   button:
     enable: true
@@ -72,7 +81,7 @@ funfacts:
   funfact_item:
   # funfacts item loop
   - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Consultas y Café"
+    name: "Consultas "
     count: "99"
 
   # funfacts item loop
@@ -82,31 +91,31 @@ funfacts:
 
   # funfacts item loop
   - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Proyectos Completados"
+    name: "Servicios Completados"
     count: "125"
 
   # funfacts item loop
   - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Trabajos Municipales | Licitaciones"
+    name: "Licitaciones"
     count: "20"
 
   testimonial_slider:
   # testimonial item loop
   - name: "Dory Betty Figueroa"
-    image: "images/clients/avater-1.jpg"
+    #image: "images/clients/avater-1.jpg"
     designation: "Administradora del Colegio Jorge Emilio Valenzuela "
     content: "La colaboración de Blue Tech en el análisis, diseño, implementación y montaje ha generado beneficios positivos en el tratamiento de aguas, lo que ha sido evaluado positivamente por la Secretaría del Medio Ambiente. Además, el proceso ha involucrado de manera exitosa a estudiantes y profesores en el aprendizaje sobre el tratamiento de aguas
     Enlace: https://fb.watch/jy_Lv66XOo/?mibextid=ZbWKwL"
 
   # testimonial item loop
   - name: "Llano Mora"
-    image: "images/clients/avater-1.jpg"
+    #image: "images/clients/avater-1.jpg"
     designation: "Llanos Oil - Director Ejecutivo"
     content: "Desde el inicio del proyecto, Blue Tech nos brindó su apoyo en el diseño e implementación de una planta de tratamiento de aguas que cumple con las especificaciones técnicas necesarias para mantener el control y la calidad del agua en nuestros cultivos. Gracias a su solución personalizada, hemos logrado asegurar el desarrollo óptimo de nuestros cultivos y mejorar nuestra eficiencia en el uso del agua. Enlace: https://fb.watch/jy_P6BzDwo/?mibextid=ZbWKwL"
 
   # testimonial item loop
   - name: "Planta de Tratamiento de Aguas"
-    image: "images/clients/avater-3.jpg"
+    #image: "images/clients/avater-3.jpg"
     designation: ""
     content: "EL Proceso de tratamiento de aguas consiste en recolectar y mezclar aguas residuales, pasarlas a un reactor biológico, realizar decantación de sólidos, regular el pH en un reactor químico y hacer aislamiento de material orgánico. Finalmente, el agua tratada pasa por varios compartimientos del tanque. A continuación puedes ver uno de nuestros trabajos.Enlace https://fb.watch/jy-BKnO_yI/."
 

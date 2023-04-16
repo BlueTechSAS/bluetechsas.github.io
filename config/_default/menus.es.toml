@@ -29,24 +29,24 @@ weight = 7
 # weight = 4
 
 
-[[main]]
-weight = 5
-name = "Mas"
-hasChildren = true
+# [[main]]
+# weight = 5
+# name = "Mas"
+# hasChildren = true
 
 
 
-  [[main]]
-  parent = "Mas"
-  name = "Precios"
-  url = "pricing/"
-  weight = 2
+  # [[main]]
+  # parent = "Mas"
+  # name = "Precios"
+  # url = "pricing/"
+  # weight = 2
 
-  [[main]]
-  parent = "Mas"
-  name = "Preguntas Frecuentes"
-  url = "faq/"
-  weight = 3
+  # [[main]]
+  # parent = "Mas"
+  # name = "Preguntas Frecuentes"
+  # url = "faq/"
+  # weight = 3
   
 [[main]]
 name = "Contactenos"
@@ -70,15 +70,15 @@ name = "Servicios"
 url = "service/"
 weight = 4
 
-[[footer]]
-name = "Precios"
-url = "pricing/"
-weight = 5
+# [[footer]]
+# name = "Precios"
+# url = "pricing/"
+# weight = 5
 
-[[footer]]
-name = "Preguntas Frecuentes"
-url = "faq/"
-weight = 6
+# [[footer]]
+# name = "Preguntas Frecuentes"
+# url = "faq/"
+# weight = 6
 
 [[footer]]
 name = "Contactenos"

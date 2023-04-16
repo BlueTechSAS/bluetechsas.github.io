@@ -25,19 +25,13 @@ featured_service:
     - name : "Mantenimiento y Reparación"
       icon : "fas fa-flask"
       color : "primary"
-      content : "Ofrecemos servicios especializados para el mantenimiento e impermeabilización de cubiertas y superficies, con el objetivo de prevenir filtraciones y prolongar la vida útil de las estructuras. 
-      
-      
-      Además, ofrecemos un servicio integral de lavado, desinfección y disposición final de residuos para tanques de almacenamiento de agua y otros líquidos, garantizando una adecuada limpieza y eliminación responsable de los residuos."
+      content : "Ofrecemos servicios de mantenimiento de equipos de bombeo, incluyendo bombas hidroneumáticas periféricas y sumergibles, ya que son esenciales para mantener la presión estable en la distribución de agua de las redes locales. Los tanques hidroacumuladores y hidroflo son una alternativa a los tanques elevados, evitando la necesidad de construir estructuras costosas y altas. El sistema hidroneumático se utiliza en entornos comerciales y domésticos, desde pequeñas industrias y edificios rurales hasta pequeños comercios y hogares particulares. "
 
     # featured service item loop
     - name : "Comprometidos con el medio Ambiente"
       icon : "fas fa-leaf"
       color : "primary-dark"
-      content : "Estamos comprometidos con el cuidado del medio ambiente y, por eso, ofrecemos servicios de estudios técnicos, tales como estudios de impacto ambiental y de factibilidad, para asegurar la viabilidad y sostenibilidad de los proyectos que implementamos. 
-
-
-      Proporcionamos servicios de levantamiento topográfico para obtener información precisa y detallada de los terrenos y superficies en los que se llevarán a cabo los proyectos"
+      content : "Estamos comprometidos con el cuidado del medio ambiente y, por eso, ofrecemos servicios de estudios técnicos, tales como estudios de impacto ambiental y de factibilidad, para asegurar la viabilidad y sostenibilidad de los proyectos que implementamos. "
 
     # featured service item loop
     - name : "Diseño y construcción"
@@ -64,12 +58,12 @@ service:
     # service item loop
     - icon : fas fa-layer-group #https://fontawesome.com/v5.15/icons "
       name:  Servicios de Ingeniería y Desarrollo
-      content: "Levantamiento topográfico para obtener información precisa y detallada de los terrenos y superficies en los que se llevarán a cabo los proyectos. Caracterización de aguas caracterización de aguas para identificar su composición y determinar los tratamientos adecuados. Estudios técnicos tales como estudios de impacto ambiental y de factibilidad, para asegurar la viabilidad y sostenibilidad de los proyectos."
+      content: "Ofrecemos un servicio completo de ingeniería para los sistemas de bombeo, utilizando paneles de control de última generación para obtener información precisa y detallada sobre los proyectos en cuestión. Realizamos la caracterización del agua para identificar su composición y determinar los tratamientos adecuados para su tratamiento. Realizamos estudios técnicos, de impacto ambiental y de factibilidad, para garantizar la sostenibilidad de los proyectos."
 
     # service item loop
     - icon : fas fa-tools #https://fontawesome.com/v5.15/icons
       name: Mantenimiento y Reparación
-      content: "Nuestro departamento de soporte y mantenimiento cuenta con una sólida experiencia en  Mantenimiento e impermeabilización de cubiertas y superficies para evitar filtraciones y mejorar la durabilidad de las estructuras. Servicio de lavado, desinfección y disposición final de residuos de tanques de almacenamiento: Brindamos servicios de lavado y desinfección de tanques de almacenamiento de agua y otros líquidos."
+      content: "Nuestro departamento de soporte y mantenimiento cuenta  con dispositivos de alta tecnología para el mantenimiento y reparación de equipos de bombeo, usando tableros de control. Tambien se realizan  servicios como el lavado y desinfección de tanques de almacenamiento, la reparación de superficies para prevenir filtraciones y mejorar la durabilidad de las estructuras, así como la disposición final de residuos de manera responsable."
 
     # service item loop
     - icon : fas fa-biohazard  #https://fontawesome.com/v5.15/icons
