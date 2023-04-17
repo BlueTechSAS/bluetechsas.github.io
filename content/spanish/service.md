@@ -68,12 +68,12 @@ service:
     # service item loop
     - icon : fas fa-biohazard  #https://fontawesome.com/v5.15/icons
       name: Suministros y Equipos
-      content: "Contamos con  Dispositivos para la MEDICIÓN y CONTROL de parámetros físico-químicos en procesos de tratamiento de aguas. Ofrecemos una amplia variedad de productos químicos y materiales necesarios para el tratamiento y purificación de aguas. Trabajamos con una amplia gama de productos de alta calidad, brindamos servicios de automatización y control, así como de Refrigeración, motobombas, moto reductores entre otros."
+      content: "Ofrecemos una amplia variedad de equipos de bombeo, tableros de control, tanques hidroflo y sumergibles de alta calidad y eficiencia comprobadas. Además, brindamos servicios de mantenimiento, soporte técnico y alquiler de estos equipos para satisfacer las necesidades de nuestros clientes. En nuestro catálogo de productos encontrará opciones como refrigeración, motobombas, moto reductores, entre otros, todos respaldados por nuestra experiencia y excelencia en el servicio."
       
     # service item loop
     - icon : fas fa-user-shield #https://fontawesome.com/v5.15/icons
       name: Capacitaciones
-      content: "Contamos con un equipo multidisciplinario altamente capacitado en el tratamiento de aguas y residuos, con amplia experiencia en la implementación de proyectos de este tipo. Nos aseguramos de mantener altos estándares de calidad y excelentes prácticas medioambientales en todas nuestras capacitaciones, brindando a nuestros clientes la confianza y el conocimiento necesarios para el manejo y optimización de sus sistemas de tratamiento." 
+      content: "Contamos con un equipo multidisciplinario altamente capacitado en sistemas de bombeo y tratamiento de aguas, al implementar estos sistemas, ofrecemos capacitaciones y consejos prácticos para el manejo y optimización de los mismos, dirigidos a los empleados de nuestros clientes. Garantizamos altos estándares de calidad y excelentes prácticas medioambientales, lo que brinda a nuestros clientes la confianza y el conocimiento necesarios para maximizar la eficiencia y rentabilidad de sus sistemas de tratamiento a largo plazo." 
 
     # service item loop
     - icon : fas fa-user-lock  #https://fontawesome.com/v5.15/icons
@@ -83,14 +83,15 @@ service:
     "
 
     # service item loop
-    # - icon : fas fa-pencil-ruler #https://fontawesome.com/v5.15/icons 
-    #   name:  Servicios de ingeniería
-    #   content: " "
+    - icon : fas fa-pencil-ruler #https://fontawesome.com/v5.15/icons 
+      name:  Tratamiento de Aguas PTAP
+      content: "Nuestra Planta de Tratamiento de Agua Potable (PTAP) es una solución eficiente y optimizada, ya que hemos incorporado equipos compactos y tecnologías, con altos estándares de calidad y fácil operación. El principio básico de nuestra tecnología es el manejo de sistemas de filtración de alta presión con filtro bolsas o cartuchos, los cuales están diseñados con microfibras de polipropileno térmico, asegurando la eliminación de sólidos, sedimentos y otros contaminantes del agua, garantizando la calidad requerida para consumo humano.        
+"
     
     # service item loop
     - icon : fas fa-edit #https://fontawesome.com/v5.15/icons  <i class=""></i>
-      name: Tratamiento de Aguas
-      content: "La planta de tratamiento de aguas de Blue Tech es altamente efectiva en la eliminación de contaminantes y garantiza la calidad del agua para su reutilización o descarte seguro. Además, el proceso de tratamiento es llevado a cabo por expertos altamente capacitados y comprometidos con el cuidado del medio ambiente. Si estás interesado en implementar una planta de tratamiento de aguas en tu empresa o comunidad."
+      name: Tratamiento de Aguas PTAR
+      content: "Ofrecemos servicios de Tratamiento de Aguas Residuales (PTAR) a través de nuestra Planta de Tratamiento, la cual emplea una combinación de procesos físicos, químicos y biológicos para eliminar eficazmente los contaminantes del agua residual, ya sea de uso doméstico, industrial, agropecuario, entre otros. Nuestro equipo utiliza tecnología de vanguardia, incluyendo un Bobcat para acelerar los trabajos y asegurar una disposición adecuada de los residuos en cumplimiento con las regulaciones ambientales."
 
 
 ############################# call to action #################################
