@@ -45,9 +45,10 @@ small, .text_small {font-size: 0.889rem;}
     margin: 0.3rem;
 }
 
-* p, .feature p, .section-title p {
+* p, .feature p{
     color: #000000;
     text-align: justify;
+    color: #575757;
     font-size: 12pt;
     font-family: "Lora";
     font-style: normal;
@@ -84,4 +85,8 @@ a, a:focus, a:hover {
 
 .service .service-item {
     height: 700px;
+}
+
+.section-title p, .page-title p , .call-to-action p {
+  text-align: center;
 }
